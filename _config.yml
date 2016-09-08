@@ -1,0 +1,30 @@
+# Site settings
+title: MerryCatmas
+header-img: img/home-bg.jpg
+email: merrycatmas@outlook.com
+copyright_name: Your/Project/Corporate Name
+description: "We wish you a Merry Catmas!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
+email_username:  merrycatmas@outlook.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+
+color-primary: '00ff00'
+color-secondary: '00ff00'
+color-secondary-dark: '333'
+muted: '777'
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+gems: [jekyll-paginate, jekyll-feed]
